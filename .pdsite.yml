@@ -1,0 +1,15 @@
+# pdsite configuration
+
+theme: dynamicsdays
+inputextension: .md
+outputfolder: .public
+sitepath: 
+
+# Site-wide template variables
+
+bootswatch: sandstone
+sitename: "Dynamics Days Europe"
+pagetitle-suffix: ""
+footer: "My pdsite footer"
+contactemail: "webmaster@dynamicsdays.eu"
+
