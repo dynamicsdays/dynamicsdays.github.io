@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content = "0;url=https://sites.google.com/view/ddayseurope/">
+<meta http-equiv="refresh" content = "0;url=https://dynamicsdays.org/">
